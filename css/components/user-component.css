@@ -54,3 +54,7 @@ user-component__time {
   margin-bottom: 5px;
   display: block;
 }
+
+.user-component__column i {
+  margin-bottom: 30px;
+}
